@@ -6,3 +6,4 @@ This is a summary of IFC files for test.
 | [Sample-Test-Files](https://github.com/buildingSMART/Sample-Test-Files) | `IFC2.3` `IFC4.0` `IFC4.1` `IFC4.3` | not defined    |
 | IFC-Alignment                                                | `IFC4.1` `IFC4.3`                   | IfcAlignment   |
 | [IFC-Rail-Unit-Test](https://github.com/BenzclyZhang/IFC-Rail-Unit-Test) | `IFC2.3` `IFC4.2` `IFC4.3`          | Cant Alignment |
+| [IFC for geometry_pipauwel](https://users.ugent.be/~pipauwel/AUTCON2017_ifclists/0_IFCSPF/) | `IFC2.3` `IFC4.0`                   | Geometry       |
